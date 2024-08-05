@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/96b975d5-42bf-452b-b7e4-ea278d6d355c">
-  <h1>Web Packages Core</h1>
+  <img src="https://github.com/user-attachments/assets/735a0e20-0c8f-40b5-b65f-fd99f5e6d101">
+  <h1>Web Packages</h1>
 </div>
 
 This template provides min-settings of the development environment that makes up web packages.
