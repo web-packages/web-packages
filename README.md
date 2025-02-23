@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/735a0e20-0c8f-40b5-b65f-fd99f5e6d101">
+    <img width="200px" src="https://github.com/user-attachments/assets/77f7e7d3-adbc-4de2-bef8-747826227335">
     <h1>Web Packages</h1>
     <table>
         <thead>
